@@ -1,0 +1,15 @@
+{
+ "big_word": "الضريبة",
+ "big_font": "fonts/Cairo-Black.ttf",
+ "big_color": [255, 255, 255],
+ "big_width_frac": 0.85,
+ "head_overlap": 0.60,
+ "min_cover": 0.15,
+ "big_offset_y": 0,
+ "cap_font": "fonts/Cairo-Bold.ttf",
+ "cap_size_frac": 0.07,
+ "cap_color": [255, 255, 255],
+ "cap_band": [0.15, 0.65],
+ "cap_top_frac": null,
+ "groups": [["كاين","البلاد","اللي"],["ما","تخلصش","والو"],["وكاين","البلاد","اللي"],["تقدر","تخلص"],["غادي","تخلص"],["الضريبة","عليها","تخلص"]]
+}
