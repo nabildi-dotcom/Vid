@@ -1,0 +1,6 @@
+.venv/
+models/
+work/
+logs/
+input/
+output/
